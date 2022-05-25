@@ -22,10 +22,6 @@ img.rounded{
   width: 150px;
 }
 
-*{
-  box-sizing: border-box;
-}
-
 .flex-container{
   display: flex;
   flex-direction: row;
